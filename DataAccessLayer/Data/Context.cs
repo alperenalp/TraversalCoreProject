@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer
+namespace DataAccessLayer.Data
 {
     public class Context : DbContext
     {
